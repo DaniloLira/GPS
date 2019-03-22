@@ -2,7 +2,7 @@
 
 Projeto das disciplinas (IF978) **Gestão de Processos de Negócios**, (IF979) **Planejamento e Gerenciamento de Projetos** e (IF980) **Sistemas de Gerenciamento Empresarial** do curso de graduação em Sistemas de Informação do Centro de Informática da Universidade Federal de Pernambuco (UFPE).
 
-# Indíce
+# Índice
 - [Apresentação da Empresa](https://github.com/EmersonVictor/gps#apresenta%C3%A7%C3%A3o-da-empresa)
 
 - [Equipe](https://github.com/EmersonVictor/gps#equipe)
