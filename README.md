@@ -3,17 +3,17 @@
 Projeto das disciplinas (IF978) **Gestão de Processos de Negócios**, (IF979) **Planejamento e Gerenciamento de Projetos** e (IF980) **Sistemas de Gerenciamento Empresarial** do curso de graduação em Sistemas de Informação do Centro de Informática da Universidade Federal de Pernambuco (UFPE).
 
 # Indíce
-- [Apresentação da Empresa](https://github.com/EmersonVictor/gps#Apresentação_da_Empresa)
+- [Apresentação da Empresa](https://github.com/EmersonVictor/gps#apresentação_da_Empresa)
 
-- [Equipe](https://github.com/EmersonVictor/gps#Equipe)
+- [Equipe](https://github.com/EmersonVictor/gps#equipe)
 
-- [Contexto do Problema](https://github.com/EmersonVictor/gps#Contexto_do_projeto_atual)
+- [Contexto do Problema](https://github.com/EmersonVictor/gps#contexto_do_projeto_atual)
 
-- [Descrição do Problema](https://github.com/EmersonVictor/gps#Descrição_do_problema)
+- [Descrição do Problema](https://github.com/EmersonVictor/gps#descrição_do_problema)
 
-- [Gestão do Projeto](https://github.com/EmersonVictor/gps#Gestão_do_projeto)
+- [Gestão do Projeto](https://github.com/EmersonVictor/gps#gestão_do_projeto)
 
-- [Artefatos](https://github.com/EmersonVictor/gps#Artefatos)
+- [Artefatos](https://github.com/EmersonVictor/gps#artefatos)
 
 ## Apresentação da Empresa
 Nós somos a empresa GPS. Nossa jovem empresa realiza atividades de Modelagem de Processos de Negócios, para que os clientes consigam visualizar melhor seus processos e obtenham melhores resultados. Consultorias na área de Planejamento e Gerenciamento de Projetos, visando a satisfação dos clientes através do gerenciamento de projetos bem sucedidos e além disso auxiliamos as empresas com a implantação de Sistemas de Gestão Empresarial, com o intuito de trazer aos nossos clientes maior controle de suas empresas.
