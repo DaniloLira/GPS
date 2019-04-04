@@ -42,7 +42,6 @@ O nosso projeto é gerido através de uma plataforma chamada [Airtable](https://
 Os artefatos produzidos por nossa equipes estão separados por disciplina e tipo de entrega nos links abaixo.
 
 - [GPN](https://github.com/EmersonVictor/gps/tree/master/gpn)
-  - [Entregas](https://github.com/EmersonVictor/gps/blob/master/gpn/entregas)
 
 - [PGP](https://github.com/EmersonVictor/gps/tree/master/pgp)
   - [Atividades](https://github.com/EmersonVictor/gps/tree/master/pgp/atividades)
